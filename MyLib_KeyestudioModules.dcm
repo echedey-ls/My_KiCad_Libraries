@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BT_BOARD_V2.0
+D Keyestudio BT HC-05 module
+K keyestudio, bluetooth, module, HC05, HC-05, hc05
+$ENDCMP
+#
+#End Doc Library
